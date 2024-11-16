@@ -30,7 +30,7 @@ Steps to contribute:
 
 📄 Acknowledgements
 - [React](https://react.dev/)
-- Redux
+- [Redux](https://redux-toolkit.js.org/)
 - [Bootstrap](https://getbootstrap.com/)
   
 
