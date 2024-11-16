@@ -32,7 +32,9 @@ Steps to contribute:
 - React
 - Redux
 - Bootstrap
+- 
 
-
-- LinkedIn: https://www.linkedin.com/in/rohini-mane-042613335
-- Email: rohinimane7844@gmail.com
+**Contact**
+  LinkedIn: https://www.linkedin.com/in/rohini-mane-042613335
+  
+  Email: rohinimane7844@gmail.com
