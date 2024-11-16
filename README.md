@@ -1,4 +1,4 @@
-# Shoppista - ## E-commerce Web Application
+# Shoppista 
 
 Shoppista is a modern e-commerce web application built with **React.js,** **Redux,** **Bootstrap,** **JavaScript,** **HTML,** and **CSS.** It offers users a seamless shopping experience with features like product browsing, shopping cart management, and more. This project showcases a fully functional front-end solution for an online store, designed to be responsive and user-friendly.
 
