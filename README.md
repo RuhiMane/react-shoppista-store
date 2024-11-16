@@ -11,7 +11,7 @@ Shopping Cart: Add and remove items from the cart, with dynamic updates using Re
 Responsive Design: Fully responsive UI built using Bootstrap for seamless user experience on both desktop and mobile devices.
 State Management with Redux: Efficiently manage application state (e.g., cart contents, product data) using Redux.
 
-# 🎯 Tech Stack
+# Tech Stack
 - Frontend: React.js
 - State Management: Redux
 - Styling: Bootstrap, CSS
@@ -32,9 +32,10 @@ Steps to contribute:
 - React
 - Redux
 - Bootstrap
-- 
+  
 
 **Contact**
+
   LinkedIn: https://www.linkedin.com/in/rohini-mane-042613335
   
   Email: rohinimane7844@gmail.com
