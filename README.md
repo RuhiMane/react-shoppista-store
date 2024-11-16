@@ -39,6 +39,6 @@ Steps to contribute:
 
 # Contact
 
-  LinkedIn: https://www.linkedin.com/in/rohini-mane-042613335
+  LinkedIn: [https://www.linkedin.com/in/rohini-mane-042613335](https://www.linkedin.com/in/rohini-mane-042613335)
   
   Email: rohinimane7844@gmail.com
