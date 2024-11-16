@@ -31,13 +31,13 @@ Steps to contribute:
 4. Push your changes to your fork.
 5. Open a pull request.
 
-📄 Acknowledgements
+# 📄 Acknowledgements
 - [React](https://react.dev/)
 - [Redux](https://redux-toolkit.js.org/)
 - [Bootstrap](https://getbootstrap.com/)
   
 
-**Contact**
+# Contact
 
   LinkedIn: https://www.linkedin.com/in/rohini-mane-042613335
   
