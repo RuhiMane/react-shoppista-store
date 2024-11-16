@@ -4,7 +4,8 @@ Shoppista is a modern e-commerce web application built with **React.js,** **Redu
 
 
 
-# 🚀 Features
+
+# Features
 Product Listings: Displays a list of products with images, descriptions, and prices.
 Shopping Cart: Add and remove items from the cart, with dynamic updates using Redux.
 Responsive Design: Fully responsive UI built using Bootstrap for seamless user experience on both desktop and mobile devices.
@@ -28,9 +29,9 @@ Steps to contribute:
 5. Open a pull request.
 
 📄 Acknowledgements
-- React
+- [React](https://react.dev/)
 - Redux
-- Bootstrap
+- [Bootstrap](https://getbootstrap.com/)
   
 
 **Contact**
